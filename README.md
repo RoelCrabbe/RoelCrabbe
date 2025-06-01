@@ -109,17 +109,27 @@ Modern, real-time CRM frontend. Built with React, TypeScript, and Tailwind CSS f
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoelCrabbe&show_icons=true&hide_border=true&theme=react" alt="RoelCrabbe's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoelCrabbe&theme=react" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoelCrabbe&layout=compact&theme=react" alt="Top Languages"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoelCrabbe&layout=compact&theme=react&card_width=320" alt="Top Languages" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoelCrabbe&theme=react" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=RoelCrabbe&show_icons=true&hide_border=true&theme=react&card_width=600" alt="RoelCrabbe's GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoelCrabbe&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoelCrabbe&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+</div>
 
 ---
 
