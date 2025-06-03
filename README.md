@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Roel Crabbe
+# 👋 Hi, I'm Roel Crabbé
 
 Junior Fullstack Developer specializing in TypeScript and React. Passionate about building modern web applications and continuously learning new technologies. Welcome to my GitHub!
 
