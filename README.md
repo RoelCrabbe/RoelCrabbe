@@ -6,11 +6,11 @@ Junior Fullstack Developer specializing in TypeScript and React. Passionate abou
 
 ## 🚀 About Me
 
-- 🧑‍💻 Junior Fullstack Developer from Rotselaar, Belgium 🇧🇪
-- 🛠️ TypeScript, React, Node.js, Next.js
-- 🌱 Currently learning advanced TypeScript patterns, React optimization, and AI integration
-- 📚 Working on: College studies & expanding the Custify CRM platform
-- 🎯 Always exploring new technologies and best practices
+- 💻 Junior Fullstack Developer from Rotselaar, Belgium 🇧🇪
+- 🔧 Core Technologies: TypeScript, React, Node.js, Next.js
+- 📈 Currently advancing in TypeScript patterns, React optimization, and AI integration
+- 🎓 Balancing college studies with professional development on the Custify platform
+- 🎯 Committed to continuous learning and implementing industry best practices
 
 ---
 
@@ -28,12 +28,13 @@ Junior Fullstack Developer specializing in TypeScript and React. Passionate abou
 
 ---
 
-## 🤖 What I'm Focused On
+## 🎯 Current Focus
 
-- Building scalable, type-safe applications with **TypeScript**
-- Mastering **React** performance optimization and advanced patterns
-- Learning **system design** and architecture best practices
-- Contributing to open source projects in the TypeScript ecosystem
+- Developing enterprise-grade applications with **TypeScript** for type safety and scalability
+- Implementing advanced **React** patterns and performance optimization techniques
+- Exploring **AI-powered development** tools and integration strategies
+- Studying **system architecture** and scalable design patterns
+- Contributing to the **open source** TypeScript and React ecosystem
 
 ---
 
@@ -92,22 +93,26 @@ Modern, real-time CRM frontend. Built with React, TypeScript, and Tailwind CSS f
   <table>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoelCrabbe&layout=compact&theme=react&card_width=320" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api?username=RoelCrabbe&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoelCrabbe&theme=react" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=RoelCrabbe&theme=react" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td width="65%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoelCrabbe&theme=github_dark" alt="GitHub Summary" />
+      </td>
+      <td width="35%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoelCrabbe&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=RoelCrabbe&show_icons=true&hide_border=true&theme=react&card_width=600" alt="RoelCrabbe's GitHub Stats" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoelCrabbe&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="100%" />
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoelCrabbe&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </div>
 
 ---
@@ -121,8 +126,3 @@ Modern, real-time CRM frontend. Built with React, TypeScript, and Tailwind CSS f
 ![GitHub Achievements](https://img.shields.io/badge/GitHub-Pair%20Extraordinaire-orange?style=for-the-badge&logo=github)
 
 *Building my way through the GitHub achievement system one commit at a time!*
-
-
-<!--
-**RoelCrabbe/RoelCrabbe** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
