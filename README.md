@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Roel Crabbe
 
-I'm a junior developer specializing in building fullstack apps with **TypeScript** and **React**. I thrive on learning, experimenting, and turning mistakes into lessons. Welcome to my GitHub!
+Junior Fullstack Developer specializing in TypeScript and React. Passionate about building modern web applications and continuously learning new technologies. Welcome to my GitHub!
 
 ---
 
@@ -8,10 +8,32 @@ I'm a junior developer specializing in building fullstack apps with **TypeScript
 
 - 🧑‍💻 Junior Fullstack Developer from Rotselaar, Belgium 🇧🇪
 - 🛠️ TypeScript, React, Node.js, Next.js
-- 🌱 Currently learning advanced TypeScript, React best practices, and exploring the world of AI
-- 📚 Currently working on: College studies & expanding the Custify project
-- 🗨️ Personal tagline:  
-  > "Just because I give you advice doesn't mean I'm smarter than you; it means I've made more mistakes."
+- 🌱 Currently learning advanced TypeScript patterns, React optimization, and AI integration
+- 📚 Working on: College studies & expanding the Custify CRM platform
+- 🎯 Always exploring new technologies and best practices
+
+---
+
+## 🌐 Tech Stack
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+
+---
+
+## 🤖 What I'm Focused On
+
+- Building scalable, type-safe applications with **TypeScript**
+- Mastering **React** performance optimization and advanced patterns
+- Learning **system design** and architecture best practices
+- Contributing to open source projects in the TypeScript ecosystem
 
 ---
 
@@ -64,51 +86,6 @@ Modern, real-time CRM frontend. Built with React, TypeScript, and Tailwind CSS f
 
 ---
 
-## 🏅 Achievements & Certifications
-
-![GitHub Achievements](https://img.shields.io/badge/GitHub-Public%20Sponsor-purple?style=for-the-badge&logo=github)
-![GitHub Achievements](https://img.shields.io/badge/GitHub-Pull%20Shark-blue?style=for-the-badge&logo=github)
-![GitHub Achievements](https://img.shields.io/badge/GitHub-Quickdraw-green?style=for-the-badge&logo=github)
-![GitHub Achievements](https://img.shields.io/badge/GitHub-YOLO-yellow?style=for-the-badge&logo=github)
-![GitHub Achievements](https://img.shields.io/badge/GitHub-Pair%20Extraordinaire-orange?style=for-the-badge&logo=github)
-
-*Building my way through the GitHub achievement system one commit at a time!*
-
----
-
-## 🌐 Tech Stack
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-
----
-
-## 🤖 What Excites Me
-
-- Exploring the future of **AI** and its impact on web development
-- Going deeper into **TypeScript** advanced patterns and **React** optimization
-- Building scalable, customizable tools for developers
-- Learning about **system design** and **architecture patterns**
-- Contributing to **open source** projects in the TypeScript ecosystem
-
----
-
-## 🎯 Fun Facts
-
-- 🧠 I believe the best way to learn is by making mistakes (and lots of them!)
-- 🔥 I'm on a mission to collect all GitHub achievements
-- 🌱 Always experimenting with new libraries and frameworks
-- 🇧🇪 Proudly coding from Belgium with excellent waffles and beer nearby
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -134,6 +111,17 @@ Modern, real-time CRM frontend. Built with React, TypeScript, and Tailwind CSS f
 </div>
 
 ---
+
+## 🏅 Achievements & Certifications
+
+![GitHub Achievements](https://img.shields.io/badge/GitHub-Public%20Sponsor-purple?style=for-the-badge&logo=github)
+![GitHub Achievements](https://img.shields.io/badge/GitHub-Pull%20Shark-blue?style=for-the-badge&logo=github)
+![GitHub Achievements](https://img.shields.io/badge/GitHub-Quickdraw-green?style=for-the-badge&logo=github)
+![GitHub Achievements](https://img.shields.io/badge/GitHub-YOLO-yellow?style=for-the-badge&logo=github)
+![GitHub Achievements](https://img.shields.io/badge/GitHub-Pair%20Extraordinaire-orange?style=for-the-badge&logo=github)
+
+*Building my way through the GitHub achievement system one commit at a time!*
+
 
 <!--
 **RoelCrabbe/RoelCrabbe** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
