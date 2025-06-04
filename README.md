@@ -9,7 +9,7 @@ Junior Fullstack Developer specializing in TypeScript and React. Passionate abou
 - 💻 Junior Fullstack Developer from Rotselaar, Belgium 🇧🇪
 - 🔧 Core Technologies: TypeScript, React, Node.js, Next.js
 - 📈 Currently advancing in TypeScript patterns, React optimization, and AI integration
-- 🎓 Balancing college studies with professional development on the Custify platform
+- 🎓 Balancing college studies with professional development hobbies
 - 🎯 Committed to continuous learning and implementing industry best practices
 
 ---
