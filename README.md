@@ -104,7 +104,9 @@ Modern, real-time CRM frontend. Built with React, TypeScript, and Tailwind CSS f
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoelCrabbe&theme=github_dark" alt="GitHub Summary" />
       </td>
       <td width="35%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoelCrabbe&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+        <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoelCrabbe&layout=compact&theme=tokyonight" alt="Top Languages" style="max-width:100%; height:auto;" />
+        </a>
       </td>
     </tr>
     <tr>
