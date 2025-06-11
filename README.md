@@ -19,6 +19,7 @@ Junior Fullstack Developer specializing in TypeScript and React. Passionate abou
 - 📈 Currently advancing in TypeScript patterns, React optimization, and AI integration
 - 🎓 Balancing college studies with professional development hobbies
 - 🎯 Committed to continuous learning and implementing industry best practices
+<img src="https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 ---
 
