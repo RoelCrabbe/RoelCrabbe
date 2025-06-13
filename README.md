@@ -105,7 +105,7 @@ Modern, real-time CRM frontend. Built with React, TypeScript, and Tailwind CSS f
         <img src="https://github-readme-stats.vercel.app/api?username=RoelCrabbe&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://streak-stats.demolab.com/?user=RoelCrabbe&theme=react" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoelCrabbe&theme=react" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
