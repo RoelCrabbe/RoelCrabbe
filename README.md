@@ -130,11 +130,11 @@ Modern, real-time CRM frontend. Built with React, TypeScript, and Tailwind CSS f
 
 ## 🏅 Achievements & Certifications
 
-![GitHub Achievements](https://img.shields.io/badge/GitHub-Public%20Sponsor-purple?style=for-the-badge&logo=github)
-![GitHub Achievements](https://img.shields.io/badge/GitHub-Pull%20Shark-blue?style=for-the-badge&logo=github)
-![GitHub Achievements](https://img.shields.io/badge/GitHub-Quickdraw-green?style=for-the-badge&logo=github)
-![GitHub Achievements](https://img.shields.io/badge/GitHub-YOLO-yellow?style=for-the-badge&logo=github)
-![GitHub Achievements](https://img.shields.io/badge/GitHub-Pair%20Extraordinaire-orange?style=for-the-badge&logo=github)
-![GitHub Achievements](https://img.shields.io/badge/GitHub-Starstruck-lightgrey?style=for-the-badge&logo=github)
+![GitHub Achievements](https://img.shields.io/badge/GitHub-Public%20Sponsor-%23db61a2?style=for-the-badge&logo=github) <!-- pinkish-purple -->
+![GitHub Achievements](https://img.shields.io/badge/GitHub-Pull%20Shark-%230096ff?style=for-the-badge&logo=github) <!-- ocean blue -->
+![GitHub Achievements](https://img.shields.io/badge/GitHub-Quickdraw-%23f9d342?style=for-the-badge&logo=github) <!-- golden yellow -->
+![GitHub Achievements](https://img.shields.io/badge/GitHub-YOLO-%23ff5733?style=for-the-badge&logo=github) <!-- bold orange-red -->
+![GitHub Achievements](https://img.shields.io/badge/GitHub-Pair%20Extraordinaire-%239b59b6?style=for-the-badge&logo=github) <!-- purple -->
+![GitHub Achievements](https://img.shields.io/badge/GitHub-Starstruck-%23ffd700?style=for-the-badge&logo=github) <!-- star gold -->
 
 *Building my way through the GitHub achievement system one commit at a time!*
