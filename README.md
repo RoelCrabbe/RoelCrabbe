@@ -135,5 +135,6 @@ Modern, real-time CRM frontend. Built with React, TypeScript, and Tailwind CSS f
 ![GitHub Achievements](https://img.shields.io/badge/GitHub-Quickdraw-green?style=for-the-badge&logo=github)
 ![GitHub Achievements](https://img.shields.io/badge/GitHub-YOLO-yellow?style=for-the-badge&logo=github)
 ![GitHub Achievements](https://img.shields.io/badge/GitHub-Pair%20Extraordinaire-orange?style=for-the-badge&logo=github)
+![GitHub Achievements](https://img.shields.io/badge/GitHub-Starstruck-lightgrey?style=for-the-badge&logo=github)
 
 *Building my way through the GitHub achievement system one commit at a time!*
