@@ -137,5 +137,5 @@ Modern, real-time CRM frontend. Built with React, TypeScript, and Tailwind CSS f
 ![GitHub Achievements](https://img.shields.io/badge/GitHub-Pair%20Extraordinaire-%239b59b6?style=for-the-badge&logo=github) <!-- purple -->
 ![GitHub Achievements](https://img.shields.io/badge/GitHub-Starstruck-%23ffd700?style=for-the-badge&logo=github) <!-- star gold -->
 
-*Building my way through the GitHub achievement system one commit at a time!*
-*Keeping the streak alive day 49*
+*Building my way through the GitHub achievement system one commit at a time!*<br>
+*Keeping the streak alive day 50*
